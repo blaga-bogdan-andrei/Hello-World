@@ -1,2 +1,2 @@
 # Hello-World
-un simplu repository
+un repository mai complicat decat credeam.
